@@ -1,8 +1,8 @@
 import time
 
-log_path = '/Users/linsen/log.log'
+log_path = '/Users/linsen/Downloads/monkey.txt'
 
-KEYWORDS = {'ANR','CRASH','NullPointerException'}
+KEYWORDS = {'ANR','CRASH','NullPointerException','ClassNotFoundException','ArithmeticException','ArrayIndexOutOfBoundsException','IllegalArgumentException','IllegalAccessException'}
 
 BUNDLE_ID = 'com.jinse'
 
