@@ -1,6 +1,7 @@
 import time
 
-log_path = '/Users/linsen/Downloads/monkey.txt'
+#log_path = '/Users/linsen/Downloads/monkey.txt'
+log_path = '/Users/linsen/ttr.txt'
 
 KEYWORDS = {'ANR','CRASH','NullPointerException','ClassNotFoundException','ArithmeticException','ArrayIndexOutOfBoundsException','IllegalArgumentException','IllegalAccessException'}
 
